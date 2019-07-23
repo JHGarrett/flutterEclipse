@@ -4,7 +4,7 @@
 
 ## About
 
-A flutter web project that implements the Eclipsed Dribble design. Insperation for the app comes from Landon Cooper. Check out his Dribble Design @ https://dribbble.com/shots/5825377-Eclipsed-Website/attachments/1255778
+A flutter iOS project that implements the Eclipsed Dribble design. Insperation for the app comes from Landon Cooper. Check out his Dribble Design @ https://dribbble.com/shots/5825377-Eclipsed-Website/attachments/1255778
 
 ## Build Tools
 
@@ -31,5 +31,7 @@ If unsuccessful try hot reload to cycle without stateful reload.
 
 
 ## Demo
+
+Basic Demo to view in web browser without having to load into Xcode. Basic functionality!!! 
 
 [Demo](http://tdk-eclipsed.io.s3-website-us-east-1.amazonaws.com)

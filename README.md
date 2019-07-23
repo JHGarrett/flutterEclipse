@@ -1,6 +1,6 @@
 # FlutterEclipse
 
-## Continuous Work in Progres
+## Continuous Work in Progress
 
 ## About
 
